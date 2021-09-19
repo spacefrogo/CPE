@@ -1,0 +1,14 @@
+tags
+**/*.o
+**/*.gc*
+**/libmy.a
+**/vgcore*
+solver/solver
+generator/generator
+bonus/solver/solver
+bonus/generator/generator
+idk*
+**/*.out
+unit_tests
+tags
+data
