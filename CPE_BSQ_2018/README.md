@@ -29,5 +29,5 @@ Example:
 
 ![image](https://user-images.githubusercontent.com/65818912/158601883-da76e385-808a-47b7-8eef-92d925ab369b.png)
 
-### The project is half finished.
+### Half finished.
 #### First Year Project - EPITECH.
