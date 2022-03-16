@@ -68,4 +68,4 @@ Example:
 ![image](https://user-images.githubusercontent.com/65818912/158604035-bada15f3-14e7-480a-90fd-fe026f7bc55c.png)
 
 
-#### First Year Project - Epitech
+#### First Year Project - EPITECH.
