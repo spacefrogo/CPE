@@ -31,3 +31,4 @@ Example:
 
 
 #### First Year Project - EPITECH.
+##### Solo project.
