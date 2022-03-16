@@ -16,3 +16,4 @@ The function should be prototyped as follows:
 
 
 #### First Year Project - EPITECH.
+##### Solo project.
